@@ -8,7 +8,8 @@ package midtermreviewcodeforpartc;
 /**
  * A class that models a User for Uno Online.
  * The user has a name and a password.
- * @author dancye, 2019
+ * @author Anmol
+ * Time 5:30pm
  */
 public class User 
 {
